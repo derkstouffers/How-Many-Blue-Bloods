@@ -1,4 +1,4 @@
-# STAT371 Final Project - Blue Bloods in NBA Championship Teams
+# STAT371 Final Project - How Many Blue Bloods Does It Take to Screw in a Light Bulb
 
 ## Data Source
 The data used for this analysis is sourced from the 'STAT371 CSV - Sheet1.csv' file, compiled using information from [Basketball-Reference](https://www.basketball-reference.com/). Basketball-Reference is a comprehensive online repository that provides detailed basketball statistics, including NBA championship data.
