@@ -3,7 +3,7 @@
 ## How many programmers does it take to screw in a lightbulb?
 - None. That’s a hardware problem.
 
-Hence the idea behind the name of this project, it's straight up just a how many ___ does it take to screw in a light bulb joke but with no punchline.
+Hence the idea behind the name of this project, it's straight up just a "how many ___ does it take to screw in a light bulb" joke but with no actual punchline.
 
 Used Pandas, NumPy, and matplotlib to read data from a .csv file of NBA team data to determine on average how many players from the college basketball "blue bloods" it took to win the championship that year. 
 
