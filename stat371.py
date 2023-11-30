@@ -7,6 +7,11 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+# Data sourced from Basketball-Reference.com
+# Website: https://www.basketball-reference.com/
+# Basketball-Reference is a comprehensive online repository providing detailed basketball statistics.
+# The data compiled here is for educational and analytical purposes.
+
 # read in csv file
 data = pd.read_csv('STAT371 CSV - Sheet1.csv')
 
