@@ -5,6 +5,6 @@
 
 Hence the idea behind the name of this project, it's straight up just a "how many ___ does it take to screw in a light bulb" joke but with no actual punchline.
 
-Used Pandas, NumPy, and matplotlib to read data from a .csv file of NBA team data to determine on average how many players from the college basketball "blue bloods" it took to win the championship that year. 
+Uses Pandas, NumPy, and matplotlib to read data from a .csv file of NBA team data to determine on average how many players from the college basketball "blue bloods" it took to win the championship that year. 
 
 **Data Attribution:** The data used in this project is sourced from [Basketball-Reference](https://www.basketball-reference.com/), a valuable resource for basketball statistics.
