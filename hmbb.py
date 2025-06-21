@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 # The data compiled here is for educational and analytical purposes.
 
 # read in csv file
-data = pd.read_csv('STAT371 CSV - Sheet1.csv')
+data = pd.read_csv('1995to2023.csv')
 
 # deal with the empties that are international/drafted out of high school players
 data['College'].fillna('international/high-school', inplace=True)
